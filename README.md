@@ -1,6 +1,7 @@
-# Bash_Script
+# Bash Script
 
-This bash script project uses the gcloud command-line interphase to create and manage VPC networks, subnets, firewall rules, and VM instances.
+This bash script project was a part of the Google Africa Developer Program.
+It involved using the gcloud command-line interface to create and manage VPC networks, subnets, firewall rules, and VM instances.
 
 This script can be used to create a basic VPC network for testing or development purposes.
 It can also be used as a starting point for creating more complex networks with multiple subnets, security zones, and other features.
